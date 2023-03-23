@@ -1,4 +1,4 @@
-# [TDD, 클린 코드 with Kotlin TDD, 클린 코드 with Kotlin 5기](https://edu.nextstep.camp/c/Z9QeJlCi)
+# [TDD, 클린 코드 with Kotlin 5기](https://edu.nextstep.camp/c/Z9QeJlCi)
 
 > 기간: 2022-11-01 ~ 2023-01-02
 
